@@ -1,1 +1,2 @@
 path/to/largefile"C:/Users/Dane/Downloads/tl_2024_us_county.json filter=lfs diff=lfs merge=lfs -text
+stateData[[:space:]](1).geojson filter=lfs diff=lfs merge=lfs -text
